@@ -4,7 +4,7 @@ import "./style.css"
 // import { addToCart } from '../redux/features/cartSlice';
 // import { useDispatch } from 'react-redux';
 // import toast from 'react-hot-toast';
-// import Search from "./Search"
+
 import Cards from './Cards';
 
 
